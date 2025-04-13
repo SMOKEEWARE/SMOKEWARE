@@ -1,9 +1,10 @@
 local games = {
     [4483381587] = "Baseplate",
-    [12742233841] = "every-second"
+    [12742233841] = "every-second",
+    [85896571713843] = "BGSI"
 }
 
-local URL = "https://raw.githubusercontent.com/5nz/CORRUPTION/main/Games/"
+local URL = "https://raw.githubusercontent.com/SMOKEEWARE/SMOKEWARE/main/Games/"
 
 if not game:IsLoaded() then game.Loaded:Wait() end
 local GC = getconnections or get_signal_cons

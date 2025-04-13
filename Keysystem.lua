@@ -33,7 +33,7 @@ end
 
 function Hub()
     OrionLib:Destroy()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/5nz/CORRUPTION/main/check.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/SMOKEEWARE/SMOKEWARE/refs/heads/main/check.lua", true))()
 end
 
 local Tab = Window:MakeTab({
@@ -65,6 +65,6 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Get Key",
 	Callback = function()
-        setclipboard("https://discord.gg/TzGuBeRSBp")
+        setclipboard("https://discord.gg/Zj4Y9FFzyD")
     end
 })
