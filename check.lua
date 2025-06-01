@@ -1,5 +1,5 @@
 local games = {
-    [103701307876340] = "Speed-Escape",
+    [103701307876340] = "speed-escape",
     [168556275] = "Baseplate",
     [12742233841] = "every-second",
     [85896571713843] = "BGSI",
